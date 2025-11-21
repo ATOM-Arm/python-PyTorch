@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+numpy
+mediapipe # apenas python 3.11 ou inferior 
